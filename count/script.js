@@ -12,4 +12,5 @@ up.addEventListener('click',function(){
 down.addEventListener('click',function(){
     count += -1;
     counter.innerText = count;
+    
 })
